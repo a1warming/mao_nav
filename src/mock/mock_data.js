@@ -658,6 +658,13 @@ export const mockData = {
           "url": "https://www.whatismyip.com/",
           "description": "",
           "icon": "/sitelogo/www.whatismyip.com.ico"
+        },
+        {
+          "id": "site-1752767803319",
+          "name": "Dreamify",
+          "url": "https://dreamify.slmnb.cn/zh",
+          "description": "flux画图",
+          "icon": ""
         }
       ]
     },
