@@ -1061,6 +1061,13 @@ export const mockData = {
           "url": "https://budongkeji.cc/",
           "description": "",
           "icon": "/sitelogo/budongkeji.cc.ico"
+        },
+        {
+          "id": "site-1752757470345",
+          "name": "不良人",
+          "url": "https://bulianglin.com/archives/hysteria2.html",
+          "description": "",
+          "icon": "/sitelogo/bulianglin.com.ico"
         }
       ]
     },
