@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/lobechat.warming.top.ico"
         },
         {
-          "id": "site-5",
-          "name": "Onehub-1",
-          "url": "https://onehub.warmus.me/",
-          "description": "",
-          "icon": "/sitelogo/onehub.warmus.me.ico"
-        },
-        {
           "id": "site-44",
           "name": "Filecode",
           "url": "https://quwenjian.cc/",
@@ -187,6 +180,13 @@ export const mockData = {
           "url": "https://onehub.warming.top/",
           "description": "",
           "icon": "/sitelogo/onehub.warming.top.ico"
+        },
+        {
+          "id": "site-5",
+          "name": "Onehub-1",
+          "url": "https://onehub.warmus.me/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/onehub.warming.top?larger=true"
         }
       ]
     },
