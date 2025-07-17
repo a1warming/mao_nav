@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1",
-          "name": "Openwebui",
-          "url": "https://chat.loveximi.top",
-          "description": "",
-          "icon": "/sitelogo/chat.loveximi.top.ico"
-        },
-        {
           "id": "site-2",
           "name": "Lobechat",
           "url": "https://lobechat.warming.top",
@@ -187,6 +180,13 @@ export const mockData = {
           "url": "https://push.ffff.li",
           "description": "企业微信消息推送，为你生成一个临时的回调URL",
           "icon": "/sitelogo/push.ffff.li.ico"
+        },
+        {
+          "id": "site-1",
+          "name": "Openwebui",
+          "url": "https://chat.loveximi.top",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chat.loveximi.top?larger=true"
         }
       ]
     },
@@ -1171,6 +1171,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "warming导航站",
-  "_fileSha": null
-};
+  "title": "warming导航站"
+}
