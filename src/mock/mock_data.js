@@ -14,20 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/lobechat.warming.top.ico"
         },
         {
-          "id": "site-44",
-          "name": "Filecode",
-          "url": "https://quwenjian.cc/",
-          "description": "方便分享文件",
-          "icon": "/sitelogo/quwenjian.cc.ico"
-        },
-        {
-          "id": "site-51",
-          "name": "Warmweb",
-          "url": "https://warmweb.netlify.app",
-          "description": "",
-          "icon": "/sitelogo/warmweb.netlify.app.ico"
-        },
-        {
           "id": "site-52",
           "name": "Myweb",
           "url": "https://warming.top",
@@ -187,6 +173,20 @@ export const mockData = {
           "url": "https://blinko.ffff.li",
           "description": "",
           "icon": "/sitelogo/blinko.ffff.li.ico"
+        },
+        {
+          "id": "site-44",
+          "name": "Filecode",
+          "url": "https://www.faviconextractor.com/favicon/quwenjian.cc?larger=true",
+          "description": "方便分享文件",
+          "icon": "/sitelogo/quwenjian.cc.ico"
+        },
+        {
+          "id": "site-51",
+          "name": "Warmweb",
+          "url": "https://warmweb.netlify.app",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/quwenjian.cc?larger=true"
         }
       ]
     },
@@ -665,6 +665,13 @@ export const mockData = {
           "url": "https://dreamify.slmnb.cn/zh",
           "description": "flux画图",
           "icon": ""
+        },
+        {
+          "id": "site-1752892562550",
+          "name": "lowendtalk",
+          "url": "https://lowendtalk.com/",
+          "description": "vps",
+          "icon": "/sitelogo/lowendtalk.com.ico"
         }
       ]
     },
