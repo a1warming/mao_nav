@@ -49,13 +49,6 @@ export const mockData = {
           "icon": "/sitelogo/cp.ffff.li.ico"
         },
         {
-          "id": "site-138",
-          "name": "imgbed",
-          "url": "https://imgbed.921556.xyz/",
-          "description": "",
-          "icon": "/sitelogo/imgbed.921556.xyz.ico"
-        },
-        {
           "id": "site-139",
           "name": "传文件(停用)",
           "url": "https://i.921556.xyz/",
@@ -187,6 +180,13 @@ export const mockData = {
           "url": "https://voapi.loveximi.top/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/voapi.loveximi.top?larger=true"
+        },
+        {
+          "id": "site-138",
+          "name": "imgbed",
+          "url": "https://www.faviconextractor.com/favicon/imgbed.921556.xyz?larger=true",
+          "description": "",
+          "icon": "/sitelogo/imgbed.921556.xyz.ico"
         }
       ]
     },
