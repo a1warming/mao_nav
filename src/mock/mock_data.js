@@ -147,13 +147,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/onehub.warming.top?larger=true"
         },
         {
-          "id": "site-54",
-          "name": "memos",
-          "url": "https://www.faviconextractor.com/favicon/memos.loveximi.top?larger=true",
-          "description": "",
-          "icon": "/sitelogo/memos.loveximi.top.ico"
-        },
-        {
           "id": "site-82",
           "name": "临时邮箱",
           "url": "https://mail.wellfam.me/",
@@ -182,11 +175,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/voapi.loveximi.top?larger=true"
         },
         {
+          "id": "site-54",
+          "name": "memos",
+          "url": "https://memos.loveximi.top",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/memos.loveximi.top?larger=true"
+        },
+        {
           "id": "site-138",
           "name": "imgbed",
-          "url": "https://www.faviconextractor.com/favicon/imgbed.921556.xyz?larger=true",
+          "url": "https://imgbed.921556.xyz",
           "description": "",
-          "icon": "/sitelogo/imgbed.921556.xyz.ico"
+          "icon": "https://www.faviconextractor.com/favicon/imgbed.921556.xyz?larger=true"
         }
       ]
     },
