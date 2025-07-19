@@ -21,13 +21,6 @@ export const mockData = {
           "icon": "/sitelogo/warming.top.ico"
         },
         {
-          "id": "site-54",
-          "name": "memos",
-          "url": "https://memos.loveximi.top",
-          "description": "",
-          "icon": "/sitelogo/memos.loveximi.top.ico"
-        },
-        {
           "id": "site-63",
           "name": "Cloudpaste",
           "url": "https://cloudpaste.everjoy.me/",
@@ -40,20 +33,6 @@ export const mockData = {
           "url": "https://导航.warming.top",
           "description": "",
           "icon": "/sitelogo/xn--fet810g.warming.top.ico"
-        },
-        {
-          "id": "site-76",
-          "name": "voapi",
-          "url": "https://voapi.loveximi.top/",
-          "description": "",
-          "icon": "/sitelogo/voapi.loveximi.top.ico"
-        },
-        {
-          "id": "site-82",
-          "name": "临时邮箱",
-          "url": "https://mail.wellfam.me/",
-          "description": "",
-          "icon": "/sitelogo/mail.wellfam.me.ico"
         },
         {
           "id": "site-126",
@@ -70,13 +49,6 @@ export const mockData = {
           "icon": "/sitelogo/cp.ffff.li.ico"
         },
         {
-          "id": "site-137",
-          "name": "服务监控",
-          "url": "https://state.20220127.xyz",
-          "description": "部署在cf | Notes: warming66666",
-          "icon": "/sitelogo/state.20220127.xyz.ico"
-        },
-        {
           "id": "site-138",
           "name": "imgbed",
           "url": "https://imgbed.921556.xyz/",
@@ -89,13 +61,6 @@ export const mockData = {
           "url": "https://i.921556.xyz/",
           "description": "只能100m以下文件，太耗服务器的内存",
           "icon": "/sitelogo/i.921556.xyz.ico"
-        },
-        {
-          "id": "site-140",
-          "name": "moemail",
-          "url": "https://moemail.loveximi.de",
-          "description": "",
-          "icon": "/sitelogo/moemail.loveximi.de.ico"
         },
         {
           "id": "site-145",
@@ -187,6 +152,41 @@ export const mockData = {
           "url": "https://onehub.warming.top/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/onehub.warming.top?larger=true"
+        },
+        {
+          "id": "site-54",
+          "name": "memos",
+          "url": "https://www.faviconextractor.com/favicon/memos.loveximi.top?larger=true",
+          "description": "",
+          "icon": "/sitelogo/memos.loveximi.top.ico"
+        },
+        {
+          "id": "site-82",
+          "name": "临时邮箱",
+          "url": "https://mail.wellfam.me/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.wellfam.me?larger=true"
+        },
+        {
+          "id": "site-137",
+          "name": "服务监控",
+          "url": "https://state.20220127.xyz",
+          "description": "部署在cf | Notes: warming66666",
+          "icon": "https://www.faviconextractor.com/favicon/state.20220127.xyz?larger=true"
+        },
+        {
+          "id": "site-140",
+          "name": "moemail",
+          "url": "https://moemail.loveximi.de",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/moemail.loveximi.de?larger=true"
+        },
+        {
+          "id": "site-76",
+          "name": "voapi",
+          "url": "https://voapi.loveximi.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/voapi.loveximi.top?larger=true"
         }
       ]
     },
