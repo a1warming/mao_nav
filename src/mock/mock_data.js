@@ -679,6 +679,13 @@ export const mockData = {
           "url": "https://speed.cloudflare.com/",
           "description": "",
           "icon": "/sitelogo/speed.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1753028529988",
+          "name": "教育邮箱",
+          "url": "https://zmkk.edu.kg/email",
+          "description": "Qwert2025?",
+          "icon": ""
         }
       ]
     },
