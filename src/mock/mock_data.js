@@ -672,6 +672,13 @@ export const mockData = {
           "url": "https://52pokemon.huxx.top/dashboard",
           "description": " | Notes: youdyede@outlook.com",
           "icon": "https://www.faviconextractor.com/favicon/52pokemon.huxx.top?larger=true"
+        },
+        {
+          "id": "site-1753026517466",
+          "name": "测速",
+          "url": "https://speed.cloudflare.com/",
+          "description": "",
+          "icon": "/sitelogo/speed.cloudflare.com.ico"
         }
       ]
     },
