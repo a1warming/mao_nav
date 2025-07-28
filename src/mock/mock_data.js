@@ -45,7 +45,8 @@ export const mockData = {
           "id": "site-1753690049100",
           "name": "openwebui",
           "url": "https://chat.loveximi.top/",
-          "description": ""
+          "description": "",
+          "icon": "/sitelogo/chat.loveximi.top.ico"
         }
       ]
     },
