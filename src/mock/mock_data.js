@@ -40,6 +40,12 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1753690049100",
+          "name": "openwebui",
+          "url": "https://chat.loveximi.top/",
+          "description": ""
         }
       ]
     },
