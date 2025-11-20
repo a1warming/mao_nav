@@ -10,7 +10,7 @@ export const mockData = {
           "id": "1",
           "name": "Openwebui",
           "url": "https://chat.loveximi.top",
-          "description": "a17warming/warmus66/warmingus",
+          "description": "   a17warming/warmus66/warmingus",
           "icon": "https://www.faviconextractor.com/favicon/chat.loveximi.top?larger=true"
         },
         {
