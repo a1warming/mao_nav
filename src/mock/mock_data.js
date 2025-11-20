@@ -1,4 +1,4 @@
-export const mockData = {
+{
   "categories": [
     {
       "id": "my-favorites",
@@ -64,6 +64,55 @@ export const mockData = {
           "icon": "/sitelogo/chat.openai.com.ico"
         },
         {
+            "id": "site-1721612000001",
+            "name": "Gemini",
+            "url": "https://aistudio.google.com/",
+            "description": "",
+            "icon": "/sitelogo/aistudio.google.com.ico"
+        },
+        {
+            "id": "site-1721612000002",
+            "name": "Kimi",
+            "url": "https://kimi.moonshot.cn/chat/cuv7j1prqpm8p4b86mc0",
+            "description": "",
+            "icon": "/sitelogo/kimi.moonshot.cn.ico"
+        },
+        {
+            "id": "site-1721612000003",
+            "name": "Deepseek",
+            "url": "https://platform.deepseek.com/",
+            "description": "",
+            "icon": "/sitelogo/platform.deepseek.com.ico"
+        },
+        {
+            "id": "site-1721612000004",
+            "name": "perplexity",
+            "url": "https://www.perplexity.ai/",
+            "description": "",
+            "icon": "/sitelogo/www.perplexity.ai.ico"
+        },
+        {
+            "id": "site-1721612000005",
+            "name": "千问",
+            "url": "https://chat.qwen.ai/",
+            "description": "",
+            "icon": "/sitelogo/chat.qwen.ai.ico"
+        },
+        {
+            "id": "site-1721612000006",
+            "name": "grok",
+            "url": "https://grok.com/",
+            "description": "",
+            "icon": "/sitelogo/grok.com.ico"
+        },
+        {
+            "id": "site-1721612000007",
+            "name": "sora",
+            "url": "https://sora.chatgpt.com/profile",
+            "description": "hf@loveximi",
+            "icon": "/sitelogo/sora.chatgpt.com.ico"
+        },
+        {
           "id": "claude",
           "name": "Claude",
           "url": "https://claude.ai",
@@ -76,20 +125,6 @@ export const mockData = {
           "url": "https://www.midjourney.com",
           "description": "AI图像生成工具",
           "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
         }
       ]
     },
@@ -99,6 +134,83 @@ export const mockData = {
       "icon": "☁️",
       "order": 2,
       "sites": [
+        {
+            "id": "site-1721612000008",
+            "name": "ArcticCloud",
+            "url": "https://www.faviconextractor.com/favicon/vps.polarbear.nyc.mn?larger=true",
+            "description": "nat小鸡",
+            "icon": "/sitelogo/vps.polarbear.nyc.mn.ico"
+        },
+        {
+            "id": "site-1721612000009",
+            "name": "56IDC",
+            "url": "https://56idc.net/",
+            "description": "nat小鸡",
+            "icon": "/sitelogo/56idc.net.ico"
+        },
+        {
+            "id": "site-1721612000010",
+            "name": "难民云",
+            "url": "https://freecloud.ltd/",
+            "description": "难民云",
+            "icon": "/sitelogo/freecloud.ltd.ico"
+        },
+        {
+            "id": "site-1721612000011",
+            "name": "Freecloud",
+            "url": "https://nat.freecloud.ltd/",
+            "description": "难民云，帕斯云亲子云，nat小鸡积分续期",
+            "icon": "/sitelogo/nat.freecloud.ltd.ico"
+        },
+        {
+            "id": "site-1721612000012",
+            "name": "猫云",
+            "url": "https://www.cloudcat.one/",
+            "description": "抽奖积分兑换法国鸡",
+            "icon": "/sitelogo/www.cloudcat.one.ico"
+        },
+        {
+            "id": "site-1721612000013",
+            "name": "荔枝云",
+            "url": "https://www.lycheen.com/",
+            "description": "定期抽奖，有付费小鸡",
+            "icon": "/sitelogo/www.lycheen.com.ico"
+        },
+        {
+            "id": "site-1721612000014",
+            "name": "Dasabo",
+            "url": "https://my.dasabo.com/clientarea.php",
+            "description": "ipv6鸡",
+            "icon": "/sitelogo/my.dasabo.com.ico"
+        },
+        {
+            "id": "site-1721612000015",
+            "name": "10u以下vps",
+            "url": "https://zhujisou.com/",
+            "description": "低价vps",
+            "icon": "/sitelogo/zhujisou.com.ico"
+        },
+        {
+            "id": "site-1721612000016",
+            "name": "Scaleway",
+            "url": "https://console.scaleway.com/instance/servers",
+            "description": "法国、波兰、荷兰的ipv6鸡",
+            "icon": "/sitelogo/console.scaleway.com.ico"
+        },
+        {
+            "id": "site-1721612000017",
+            "name": "Zouter",
+            "url": "https://console.zouter.io/",
+            "description": "有一个香港鸡",
+            "icon": "/sitelogo/console.zouter.io.ico"
+        },
+        {
+            "id": "site-1721612000018",
+            "name": "天翼云电脑",
+            "url": "https://pc.ctyun.cn/#/desktop?id=MjA5NTgzMjc=",
+            "description": "",
+            "icon": "/sitelogo/pc.ctyun.cn.ico"
+        },
         {
           "id": "cloudflare",
           "name": "Cloudflare",
@@ -114,39 +226,11 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
-        },
-        {
           "id": "tencent-cloud",
           "name": "腾讯云",
           "url": "https://cloud.tencent.com",
           "description": "腾讯云计算服务",
           "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
         }
       ]
     },
@@ -171,11 +255,18 @@ export const mockData = {
           "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
+            "id": "site-1721612000019",
+            "name": "Webssh工具",
+            "url": "https://ssh.icmpmiao.org/",
+            "description": "",
+            "icon": "/sitelogo/ssh.icmpmiao.org.ico"
+        },
+        {
+            "id": "site-1721612000020",
+            "name": "Mobaxterm-汉化",
+            "url": "https://github.com/Eilte/Mobaxterm-Chinese",
+            "description": "ssh工具",
+            "icon": "/sitelogo/github.com.ico"
         },
         {
           "id": "postman",
@@ -183,20 +274,6 @@ export const mockData = {
           "url": "https://www.postman.com",
           "description": "API测试工具",
           "icon": "/sitelogo/www.postman.com.ico"
-        },
-        {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
         }
       ]
     },
@@ -221,20 +298,6 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
           "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
@@ -255,27 +318,6 @@ export const mockData = {
           "url": "https://figma.com",
           "description": "UI设计工具",
           "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
     },
@@ -293,53 +335,18 @@ export const mockData = {
           "icon": "/sitelogo/www.binance.com.ico"
         },
         {
+            "id": "site-1721612000021",
+            "name": "Bybit",
+            "url": "https://www.bybit.com/",
+            "description": "",
+            "icon": "/sitelogo/www.bybit.com.ico"
+        },
+        {
           "id": "okx",
           "name": "OKX",
           "url": "https://www.okx.com",
           "description": "数字资产交易服务平台",
           "icon": "/sitelogo/www.okx.com.ico"
-        },
-        {
-          "id": "bitget",
-          "name": "Bitget",
-          "url": "https://www.bitget.com",
-          "description": "全球化数字资产交易服务商",
-          "icon": "/sitelogo/www.bitget.com.ico"
-        },
-        {
-          "id": "tradingview",
-          "name": "TradingView",
-          "url": "https://cn.tradingview.com",
-          "description": "专业金融图表和交易平台",
-          "icon": "/sitelogo/cn.tradingview.com.ico"
-        },
-        {
-          "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "/sitelogo/www.10jqka.com.cn.ico"
-        },
-        {
-          "id": "xueqiu",
-          "name": "雪球",
-          "url": "https://xueqiu.com",
-          "description": "聪明的投资者都在这里",
-          "icon": "/sitelogo/xueqiu.com.ico"
-        },
-        {
-          "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "/sitelogo/www.coinbase.com.ico"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
     },
@@ -357,25 +364,32 @@ export const mockData = {
           "icon": "/sitelogo/developer.mozilla.org.ico"
         },
         {
-          "id": "w3school",
-          "name": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程",
-          "icon": "/sitelogo/www.w3schools.com.ico"
+            "id": "site-1721612000022",
+            "name": "Timeshift",
+            "url": "https://blog.csdn.net/weixin_44257754/article/details/125785661",
+            "description": "备份debian",
+            "icon": "/sitelogo/blog.csdn.net.ico"
         },
         {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
+            "id": "site-1721612000023",
+            "name": "ms教程",
+            "url": "https://wiki.msaber.fun/",
+            "description": "",
+            "icon": "/sitelogo/wiki.msaber.fun.ico"
         },
         {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
+            "id": "site-1721612000024",
+            "name": "uptime部署项目",
+            "url": "https://github.com/lyc8503/UptimeFlare/blob/main/README_zh-CN.md",
+            "description": "可以部署在cf上面",
+            "icon": "/sitelogo/github.com.ico"
+        },
+        {
+            "id": "site-1721612000025",
+            "name": "广告拦截教程",
+            "url": "https://mp.weixin.qq.com/s/USvQbx7AwyEVkMDTPnzbQA",
+            "description": "",
+            "icon": "/sitelogo/mp.weixin.qq.com.ico"
         }
       ]
     },
@@ -386,32 +400,95 @@ export const mockData = {
       "order": 8,
       "sites": [
         {
+            "id": "site-1721612000026",
+            "name": "Ip解析",
+            "url": "https://tool.lu/ip/",
+            "description": "",
+            "icon": "/sitelogo/tool.lu.ico"
+        },
+        {
+            "id": "site-1721612000027",
+            "name": "虚拟身份",
+            "url": "https://www.shenfendaquan.com/",
+            "description": "",
+            "icon": "/sitelogo/www.shenfendaquan.com.ico"
+        },
+        {
+            "id": "site-1721612000028",
+            "name": "Whoer",
+            "url": "https://whoer.net/zh",
+            "description": "ip伪装度查询",
+            "icon": "/sitelogo/whoer.net.ico"
+        },
+        {
+            "id": "site-1721612000029",
+            "name": "优选IP的在线工具",
+            "url": "https://stock.hostmonit.com/CloudFlareYes",
+            "description": "",
+            "icon": "/sitelogo/stock.hostmonit.com.ico"
+        },
+        {
+            "id": "site-1721612000030",
+            "name": "Itdog",
+            "url": "https://www.itdog.cn/http/",
+            "description": "",
+            "icon": "/sitelogo/www.itdog.cn.ico"
+        },
+        {
+            "id": "site-1721612000031",
+            "name": "Uptimerobot",
+            "url": "https://dashboard.uptimerobot.com/monitors",
+            "description": "",
+            "icon": "/sitelogo/dashboard.uptimerobot.com.ico"
+        },
+        {
+            "id": "site-1721612000032",
+            "name": "免费临时邮箱",
+            "url": "https://tmpmails.com/zh",
+            "description": "",
+            "icon": "/sitelogo/tmpmails.com.ico"
+        },
+        {
+            "id": "site-1721612000033",
+            "name": "企业信息查询",
+            "url": "https://test1.javaw.icu/",
+            "description": "",
+            "icon": "/sitelogo/test1.javaw.icu.ico"
+        },
+        {
+            "id": "site-1721612000034",
+            "name": "yiove书源仓库",
+            "url": "https://shuyuan.yiove.com/",
+            "description": "",
+            "icon": "/sitelogo/shuyuan.yiove.com.ico"
+        },
+        {
+            "id": "site-1721612000035",
+            "name": "Outlook邮箱",
+            "url": "https://outlook.live.com/mail/",
+            "description": "",
+            "icon": "/sitelogo/outlook.live.com.ico"
+        },
+        {
+            "id": "site-1721612000036",
+            "name": "Proton邮箱",
+            "url": "https://mail.proton.me/u/0/inbox",
+            "description": "",
+            "icon": "/sitelogo/mail.proton.me.ico"
+        },
+        {
+            "id": "site-1721612000037",
+            "name": "白嫖临时邮箱",
+            "url": "https://resend.com/emails",
+            "description": "",
+            "icon": "/sitelogo/resend.com.ico"
+        },
+        {
           "id": "json-formatter",
           "name": "JSON Formatter",
           "url": "https://jsonformatter.org",
           "description": "JSON格式化工具",
           "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
     },
@@ -421,6 +498,139 @@ export const mockData = {
       "icon": "🎮",
       "order": 9,
       "sites": [
+        {
+            "id": "site-1721612000038",
+            "name": "壁纸",
+            "url": "https://haowallpaper.com/homeView",
+            "description": "",
+            "icon": "/sitelogo/haowallpaper.com.ico"
+        },
+        {
+            "id": "site-1721612000039",
+            "name": "网盘影视资源",
+            "url": "https://www.gying.org/",
+            "description": "网盘影视资源",
+            "icon": "/sitelogo/www.gying.org.ico"
+        },
+        {
+            "id": "site-1721612000040",
+            "name": "雷琼（天翼）",
+            "url": "https://www.leijing1.com/index",
+            "description": "",
+            "icon": "/sitelogo/www.leijing1.com.ico"
+        },
+        {
+            "id": "site-1721612000041",
+            "name": "海绵（天翼）",
+            "url": "https://www.hmxz.org/t",
+            "description": "",
+            "icon": "/sitelogo/www.hmxz.org.ico"
+        },
+        {
+            "id": "site-1721612000042",
+            "name": "123网盘",
+            "url": "https://www.123pan.com/",
+            "description": "",
+            "icon": "/sitelogo/www.123pan.com.ico"
+        },
+        {
+            "id": "site-1721612000043",
+            "name": "Simple-video",
+            "url": "https://simplev.warming.top",
+            "description": "",
+            "icon": "/sitelogo/simplev.warming.top.ico"
+        },
+        {
+            "id": "site-1721612000044",
+            "name": "LibreTv",
+            "url": "https://warmtv.netlify.app",
+            "description": "",
+            "icon": "/sitelogo/warmtv.netlify.app.ico"
+        },
+        {
+            "id": "site-1721612000045",
+            "name": "直播源更新",
+            "url": "https://github.com/vbskycn/iptv/tree/master?tab=readme-ov-file",
+            "description": "最新的直播源",
+            "icon": "/sitelogo/github.com.ico"
+        },
+        {
+            "id": "site-1721612000046",
+            "name": "pve-emby",
+            "url": "https://emby.loveximi.top",
+            "description": "本地cms，emby，mp，115部署，实现302播放",
+            "icon": "/sitelogo/emby.loveximi.top.ico"
+        },
+        {
+            "id": "site-1721612000047",
+            "name": "nc-emby",
+            "url": "https://emby.ffff.li/",
+            "description": "",
+            "icon": "/sitelogo/emby.ffff.li.ico"
+        },
+        {
+            "id": "site-1721612000048",
+            "name": "麦田影院",
+            "url": "https://www.mtyy1.com/",
+            "description": "",
+            "icon": "/sitelogo/www.mtyy1.com.ico"
+        },
+        {
+            "id": "site-1721612000049",
+            "name": "豌豆pro",
+            "url": "https://wandou.la/",
+            "description": "",
+            "icon": "/sitelogo/wandou.la.ico"
+        },
+        {
+            "id": "site-1721612000050",
+            "name": "7080影视",
+            "url": "https://7080.wang/",
+            "description": "有tvbox源",
+            "icon": "/sitelogo/7080.wang.ico"
+        },
+        {
+            "id": "site-1721612000051",
+            "name": "仙女影视",
+            "url": "https://xnys1.cc",
+            "description": "",
+            "icon": "/sitelogo/xnys1.cc.ico"
+        },
+        {
+            "id": "site-1721612000052",
+            "name": "seedhub",
+            "url": "https://www.seedhub.cc/",
+            "description": "仅下载 百度夸克",
+            "icon": "/sitelogo/www.seedhub.cc.ico"
+        },
+        {
+            "id": "site-1721612000053",
+            "name": "98",
+            "url": "https://wtzs1.q28qe.net/",
+            "description": "",
+            "icon": "/sitelogo/wtzs1.q28qe.net.ico"
+        },
+        {
+            "id": "site-1721612000054",
+            "name": "moontv",
+            "url": "https://tv.5168168.xyz",
+            "description": "",
+            "icon": "/sitelogo/tv.5168168.xyz.ico"
+        },
+        {
+            "id": "site-1721612000055",
+            "name": "低端影视",
+            "url": "https://ddys.pro/",
+            "description": "",
+            "icon": "/sitelogo/ddys.pro.ico"
+        },
+        {
+            "id": "site-1721612000056",
+            "name": "皮皮妖",
+            "url": "https://www.pipiyao.cc/",
+            "description": "",
+            "icon": "/sitelogo/www.pipiyao.cc.ico"
+        },
         {
           "id": "bilibili",
           "name": "哔哩哔哩",
@@ -434,20 +644,6 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
-        },
-        {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "/sitelogo/www.douban.com.ico"
-        },
-        {
-          "id": "zhihu",
-          "name": "知乎",
-          "url": "https://www.zhihu.com",
-          "description": "知识问答社区",
-          "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
         }
       ]
     },
@@ -458,6 +654,13 @@ export const mockData = {
       "order": 10,
       "sites": [
         {
+            "id": "site-1721612000057",
+            "name": "企业微信",
+            "url": "https://work.weixin.qq.com/wework_admin/frame#apps",
+            "description": "",
+            "icon": "/sitelogo/work.weixin.qq.com.ico"
+        },
+        {
           "id": "notion",
           "name": "Notion",
           "url": "https://www.notion.so",
@@ -465,25 +668,278 @@ export const mockData = {
           "icon": "/sitelogo/www.notion.so.ico"
         },
         {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
           "id": "feishu",
           "name": "飞书",
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "other-bookmarks",
+      "name": "其它收藏",
+      "icon": "🔖",
+      "order": 11,
+      "sites": [
+        {
+            "id": "site-1721612000058",
+            "name": "Mjjbox",
+            "url": "https://mjjbox.com/",
+            "description": "",
+            "icon": "/sitelogo/mjjbox.com.ico"
+        },
+        {
+            "id": "site-1721612000059",
+            "name": "Apkpure",
+            "url": "https://apkpure.com/cn/",
+            "description": "",
+            "icon": "/sitelogo/apkpure.com.ico"
+        },
+        {
+            "id": "site-1721612000060",
+            "name": "infini-cloud",
+            "url": "https://infini-cloud.net/en/modules/mypage/usage/",
+            "description": "一个小日子的网盘",
+            "icon": "/sitelogo/infini-cloud.net.ico"
+        },
+        {
+            "id": "site-1721612000061",
+            "name": "Infini",
+            "url": "https://app.infini.money",
+            "description": "",
+            "icon": "/sitelogo/app.infini.money.ico"
+        },
+        {
+            "id": "site-1721612000062",
+            "name": "各类导航资源",
+            "url": "https://axutongxue.com/",
+            "description": "",
+            "icon": "/sitelogo/axutongxue.com.ico"
+        },
+        {
+            "id": "site-1721612000063",
+            "name": "西贝导航",
+            "url": "https://xibel.cn/sites/782.html",
+            "description": "",
+            "icon": "/sitelogo/xibel.cn.ico"
+        },
+        {
+            "id": "site-1721612000064",
+            "name": "妖火",
+            "url": "https://yaohuo.me/wapindex.aspx?sid=-2",
+            "description": "",
+            "icon": "/sitelogo/yaohuo.me.ico"
+        },
+        {
+            "id": "site-1721612000065",
+            "name": "daisysms",
+            "url": "https://daisysms.com/",
+            "description": "接码",
+            "icon": "/sitelogo/daisysms.com.ico"
+        },
+        {
+            "id": "site-1721612000066",
+            "name": "ping0",
+            "url": "https://ping0.cc",
+            "description": "",
+            "icon": "/sitelogo/ping0.cc.ico"
+        },
+        {
+            "id": "site-1721612000067",
+            "name": "spaceship",
+            "url": "https://www.spaceship.com/",
+            "description": "购买域名",
+            "icon": "/sitelogo/www.spaceship.com.ico"
+        },
+        {
+            "id": "site-1721612000068",
+            "name": "plex群整理",
+            "url": "https://docs.qq.com/doc/DV3JkZnhKTHdIckVt",
+            "description": "",
+            "icon": "/sitelogo/docs.qq.com.ico"
+        },
+        {
+            "id": "site-1721612000069",
+            "name": "picgo",
+            "url": "https://www.picgo.net/",
+            "description": "picgo.loveximi.de",
+            "icon": "/sitelogo/www.picgo.net.ico"
+        },
+        {
+            "id": "site-1721612000070",
+            "name": "美国真实地址",
+            "url": "https://121415.xyz/",
+            "description": "",
+            "icon": "/sitelogo/121415.xyz.ico"
+        },
+        {
+            "id": "site-1721612000071",
+            "name": "真实地址生成",
+            "url": "https://address.jjjq.de/",
+            "description": "方便生成真实地址",
+            "icon": "/sitelogo/address.jjjq.de.ico"
+        },
+        {
+            "id": "site-1721612000072",
+            "name": "墙外基于ip生成地址",
+            "url": "https://ipaddress.jjjq.de/",
+            "description": "",
+            "icon": "/sitelogo/ipaddress.jjjq.de.ico"
+        },
+        {
+            "id": "site-1721612000073",
+            "name": "最全盗版资源网",
+            "url": "https://fmhy.net/",
+            "description": "",
+            "icon": "/sitelogo/fmhy.net.ico"
+        },
+        {
+            "id": "site-1721612000074",
+            "name": "Zerotier",
+            "url": "https://my.zerotier.com/",
+            "description": "",
+            "icon": "/sitelogo/my.zerotier.com.ico"
+        },
+        {
+            "id": "site-1721612000075",
+            "name": "宝可梦",
+            "url": "https://52pokemon.huxx.top/dashboard",
+            "description": "",
+            "icon": "/sitelogo/52pokemon.huxx.top.ico"
+        },
+        {
+            "id": "site-1721612000076",
+            "name": "52破解",
+            "url": "https://www.52pojie.cn/forum-16-1.html",
+            "description": "",
+            "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+            "id": "site-1721612000077",
+            "name": "查询ip所在地",
+            "url": "https://www.whatismyip.com/",
+            "description": "",
+            "icon": "/sitelogo/www.whatismyip.com.ico"
+        },
+        {
+            "id": "site-1721612000078",
+            "name": "临时邮箱",
+            "url": "https://teach.jhun.edu.kg/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiY2xvdWRmbGFyZUB0ZWFjaC5qaHVuLmVkdS5rZyIsImFkZHJlc3NfaWQiOjMwMjV9.SCfvQL-dSanYWKhY0LmVdkIXHYznOMXxb4K6o1CYshc",
+            "description": "用来组成vuejs.bio域名",
+            "icon": "/sitelogo/teach.jhun.edu.kg.ico"
+        },
+        {
+            "id": "site-1721612000079",
+            "name": "appypie",
+            "url": "https://accounts.appypie.com/",
+            "description": "bio邮箱账号",
+            "icon": "/sitelogo/accounts.appypie.com.ico"
+        },
+        {
+            "id": "site-1721612000080",
+            "name": "中国人事考试网",
+            "url": "https://zg.cpta.com.cn/examfront/examSelect/selectExamInto.htm#",
+            "description": "考证报名",
+            "icon": "/sitelogo/zg.cpta.com.cn.ico"
+        },
+        {
+            "id": "site-1721612000081",
+            "name": "查询ipv6",
+            "url": "https://ipw.cn/",
+            "description": "",
+            "icon": "/sitelogo/ipw.cn.ico"
+        },
+        {
+            "id": "site-1721612000082",
+            "name": "腾讯云域名托管",
+            "url": "https://console.dnspod.cn/dns/list",
+            "description": "",
+            "icon": "/sitelogo/console.dnspod.cn.ico"
+        },
+        {
+            "id": "site-1721612000083",
+            "name": "学生证生成",
+            "url": "https://student.frp.gs/",
+            "description": "",
+            "icon": "/sitelogo/student.frp.gs.ico"
+        },
+        {
+            "id": "site-1721612000084",
+            "name": "giffgaff",
+            "url": "https://www.giffgaff.com/",
+            "description": "warmus",
+            "icon": "/sitelogo/www.giffgaff.com.ico"
+        },
+        {
+            "id": "site-1721612000085",
+            "name": "uuid生成",
+            "url": "https://www.uuidgenerator.net/",
+            "description": "",
+            "icon": "/sitelogo/www.uuidgenerator.net.ico"
+        },
+        {
+            "id": "site-1721612000086",
+            "name": "pp.ua",
+            "url": "https://nic.ua/",
+            "description": "免费二级域名",
+            "icon": "/sitelogo/nic.ua.ico"
+        },
+        {
+            "id": "site-1721612000087",
+            "name": "us.kg-xx.kg-qzz.io",
+            "url": "https://dash.domain.digitalplat.org/",
+            "description": "免费二级域名",
+            "icon": "/sitelogo/dash.domain.digitalplat.org.ico"
+        },
+        {
+            "id": "site-1721612000088",
+            "name": "企业信息查询",
+            "url": "https://ojx.me/",
+            "description": "",
+            "icon": "/sitelogo/ojx.me.ico"
+        },
+        {
+            "id": "site-1721612000089",
+            "name": "Deepflood",
+            "url": "https://www.deepflood.com",
+            "description": "",
+            "icon": "/sitelogo/www.deepflood.com.ico"
+        },
+        {
+            "id": "site-1721612000090",
+            "name": "Idc",
+            "url": "https://idcflare.com",
+            "description": "",
+            "icon": "/sitelogo/idcflare.com.ico"
+        },
+        {
+            "id": "site-1721612000091",
+            "name": "其他人导航",
+            "url": "https://www.518855.xyz/",
+            "description": "",
+            "icon": "/sitelogo/www.518855.xyz.ico"
+        },
+        {
+            "id": "site-1721612000092",
+            "name": "虚拟人物",
+            "url": "https://realaddress.remit.ee/?country=US",
+            "description": "",
+            "icon": "/sitelogo/realaddress.remit.ee.ico"
+        },
+        {
+            "id": "site-1721612000093",
+            "name": "kernelsu中文网",
+            "url": "https://kernelsu.com/oneplus-boot.html",
+            "description": "刷机获取root",
+            "icon": "/sitelogo/kernelsu.com.ico"
+        },
+        {
+            "id": "site-1721612000094",
+            "name": "5sim",
+            "url": "https://5sim.net/zh/payment",
+            "description": "warmus666",
+            "icon": "/sitelogo/5sim.net.ico"
         }
       ]
     }
