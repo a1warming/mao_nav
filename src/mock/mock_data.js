@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://lobechat.warming.top",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/lobechat.warming.top"
+        },
+        {
+          "id": "site-1721612000070",
+          "name": "美国真实地址",
+          "url": "https://121415.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/121415.xyz"
         }
       ]
     },
@@ -694,84 +701,77 @@ export const mockData = {
           "name": "Apkpure",
           "url": "https://apkpure.com/cn/",
           "description": "",
-          "icon": "/sitelogo/apkpure.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/apkpure.com"
         },
         {
           "id": "site-1721612000060",
           "name": "infini-cloud",
           "url": "https://infini-cloud.net/en/modules/mypage/usage/",
           "description": "一个小日子的网盘",
-          "icon": "/sitelogo/infini-cloud.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/infini-cloud.net"
         },
         {
           "id": "site-1721612000061",
           "name": "Infini",
           "url": "https://app.infini.money",
           "description": "",
-          "icon": "/sitelogo/app.infini.money.ico"
+          "icon": "https://www.faviconextractor.com/favicon/app.infini.money"
         },
         {
           "id": "site-1721612000062",
           "name": "各类导航资源",
           "url": "https://axutongxue.com/",
           "description": "",
-          "icon": "/sitelogo/axutongxue.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/axutongxue.com"
         },
         {
           "id": "site-1721612000063",
           "name": "西贝导航",
           "url": "https://xibel.cn/sites/782.html",
           "description": "",
-          "icon": "/sitelogo/xibel.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/xibel.cn"
         },
         {
           "id": "site-1721612000064",
           "name": "妖火",
           "url": "https://yaohuo.me/wapindex.aspx?sid=-2",
           "description": "",
-          "icon": "/sitelogo/yaohuo.me.ico"
+          "icon": "https://www.faviconextractor.com/favicon/yaohuo.me"
         },
         {
           "id": "site-1721612000065",
           "name": "daisysms",
           "url": "https://daisysms.com/",
           "description": "接码",
-          "icon": "/sitelogo/daisysms.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/daisysms.com"
         },
         {
           "id": "site-1721612000066",
           "name": "ping0",
           "url": "https://ping0.cc",
           "description": "",
-          "icon": "/sitelogo/ping0.cc.ico"
+          "icon": "https://www.faviconextractor.com/favicon/ping0.cc"
         },
         {
           "id": "site-1721612000067",
           "name": "spaceship",
           "url": "https://www.spaceship.com/",
           "description": "购买域名",
-          "icon": "/sitelogo/www.spaceship.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.spaceship.com"
         },
         {
           "id": "site-1721612000068",
           "name": "plex群整理",
           "url": "https://docs.qq.com/doc/DV3JkZnhKTHdIckVt",
           "description": "",
-          "icon": "/sitelogo/docs.qq.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/docs.qq.com"
         },
         {
           "id": "site-1721612000069",
           "name": "picgo",
           "url": "https://www.picgo.net/",
           "description": "picgo.loveximi.de",
-          "icon": "/sitelogo/www.picgo.net.ico"
-        },
-        {
-          "id": "site-1721612000070",
-          "name": "美国真实地址",
-          "url": "https://121415.xyz/",
-          "description": "",
-          "icon": "/sitelogo/121415.xyz.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.picgo.net"
         },
         {
           "id": "site-1721612000071",
@@ -792,21 +792,21 @@ export const mockData = {
           "name": "最全盗版资源网",
           "url": "https://fmhy.net/",
           "description": "",
-          "icon": "/sitelogo/fmhy.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/fmhy.net"
         },
         {
           "id": "site-1721612000074",
           "name": "Zerotier",
           "url": "https://my.zerotier.com/",
           "description": "",
-          "icon": "/sitelogo/my.zerotier.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/my.zerotier.com"
         },
         {
           "id": "site-1721612000075",
           "name": "宝可梦",
           "url": "https://52pokemon.huxx.top/dashboard",
           "description": "",
-          "icon": "/sitelogo/52pokemon.huxx.top.ico"
+          "icon": "https://www.faviconextractor.com/favicon/52pokemon.huxx.top"
         },
         {
           "id": "site-1721612000076",
@@ -820,126 +820,126 @@ export const mockData = {
           "name": "查询ip所在地",
           "url": "https://www.whatismyip.com/",
           "description": "",
-          "icon": "/sitelogo/www.whatismyip.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.whatismyip.com"
         },
         {
           "id": "site-1721612000078",
           "name": "临时邮箱",
           "url": "https://teach.jhun.edu.kg/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiY2xvdWRmbGFyZUB0ZWFjaC5qaHVuLmVkdS5rZyIsImFkZHJlc3NfaWQiOjMwMjV9.SCfvQL-dSanYWKhY0LmVdkIXHYznOMXxb4K6o1CYshc",
           "description": "用来组成vuejs.bio域名",
-          "icon": "/sitelogo/teach.jhun.edu.kg.ico"
+          "icon": "https://www.faviconextractor.com/favicon/teach.jhun.edu.kg"
         },
         {
           "id": "site-1721612000079",
           "name": "appypie",
           "url": "https://accounts.appypie.com/",
           "description": "bio邮箱账号",
-          "icon": "/sitelogo/accounts.appypie.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/accounts.appypie.com"
         },
         {
           "id": "site-1721612000080",
           "name": "中国人事考试网",
           "url": "https://zg.cpta.com.cn/examfront/examSelect/selectExamInto.htm#",
           "description": "考证报名",
-          "icon": "/sitelogo/zg.cpta.com.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/zg.cpta.com.cn"
         },
         {
           "id": "site-1721612000081",
           "name": "查询ipv6",
           "url": "https://ipw.cn/",
           "description": "",
-          "icon": "/sitelogo/ipw.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/ipw.cn"
         },
         {
           "id": "site-1721612000082",
           "name": "腾讯云域名托管",
           "url": "https://console.dnspod.cn/dns/list",
           "description": "",
-          "icon": "/sitelogo/console.dnspod.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/console.dnspod.cn"
         },
         {
           "id": "site-1721612000083",
           "name": "学生证生成",
           "url": "https://student.frp.gs/",
           "description": "",
-          "icon": "/sitelogo/student.frp.gs.ico"
+          "icon": "https://www.faviconextractor.com/favicon/student.frp.gs"
         },
         {
           "id": "site-1721612000084",
           "name": "giffgaff",
           "url": "https://www.giffgaff.com/",
           "description": "warmus",
-          "icon": "/sitelogo/www.giffgaff.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.giffgaff.com"
         },
         {
           "id": "site-1721612000085",
           "name": "uuid生成",
           "url": "https://www.uuidgenerator.net/",
           "description": "",
-          "icon": "/sitelogo/www.uuidgenerator.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.uuidgenerator.net"
         },
         {
           "id": "site-1721612000086",
           "name": "pp.ua",
           "url": "https://nic.ua/",
           "description": "免费二级域名",
-          "icon": "/sitelogo/nic.ua.ico"
+          "icon": "https://www.faviconextractor.com/favicon/nic.ua"
         },
         {
           "id": "site-1721612000087",
           "name": "us.kg-xx.kg-qzz.io",
           "url": "https://dash.domain.digitalplat.org/",
           "description": "免费二级域名",
-          "icon": "/sitelogo/dash.domain.digitalplat.org.ico"
+          "icon": "https://www.faviconextractor.com/favicon/dash.domain.digitalplat.org"
         },
         {
           "id": "site-1721612000088",
           "name": "企业信息查询",
           "url": "https://ojx.me/",
           "description": "",
-          "icon": "/sitelogo/ojx.me.ico"
+          "icon": "https://www.faviconextractor.com/favicon/ojx.me"
         },
         {
           "id": "site-1721612000089",
           "name": "Deepflood",
           "url": "https://www.deepflood.com",
           "description": "",
-          "icon": "/sitelogo/www.deepflood.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.deepflood.com"
         },
         {
           "id": "site-1721612000090",
           "name": "Idc",
           "url": "https://idcflare.com",
           "description": "",
-          "icon": "/sitelogo/idcflare.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
         },
         {
           "id": "site-1721612000091",
           "name": "其他人导航",
           "url": "https://www.518855.xyz/",
           "description": "",
-          "icon": "/sitelogo/www.518855.xyz.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.518855.xyz"
         },
         {
           "id": "site-1721612000092",
           "name": "虚拟人物",
           "url": "https://realaddress.remit.ee/?country=US",
           "description": "",
-          "icon": "/sitelogo/realaddress.remit.ee.ico"
+          "icon": "https://www.faviconextractor.com/favicon/realaddress.remit.ee"
         },
         {
           "id": "site-1721612000093",
           "name": "kernelsu中文网",
           "url": "https://kernelsu.com/oneplus-boot.html",
           "description": "刷机获取root",
-          "icon": "/sitelogo/kernelsu.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/kernelsu.com"
         },
         {
           "id": "site-1721612000094",
           "name": "5sim",
           "url": "https://5sim.net/zh/payment",
           "description": "warmus666",
-          "icon": "/sitelogo/5sim.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/5sim.net"
         }
       ]
     }
