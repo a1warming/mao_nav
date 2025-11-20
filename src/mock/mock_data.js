@@ -1,3 +1,12 @@
+// 在文件开头加上这句
+export const mockData = 
+// 这里是你从我这里复制的完整JSON内容
+{
+  "categories": [
+    {
+      "id": "my-favorites",
+      "name": "我的常用",
+      "icon
 {
   "categories": [
     {
