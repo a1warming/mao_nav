@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1763654370801",
+          "name": "Lobechat",
+          "url": "https://lobechat.warming.top",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/lobechat.warming.top"
         }
       ]
     },
@@ -197,7 +204,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "stackoverflow",
@@ -240,7 +247,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "figma",
@@ -276,7 +283,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "binance",
@@ -340,7 +347,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "mdn",
@@ -376,7 +383,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "json-formatter",
@@ -412,7 +419,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "bilibili",
@@ -448,7 +455,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "notion",
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱你的密钥被破解了",
-  "_fileSha": "8d7abcaecd8cb14b56158b8dad478a98d00c51d5"
+  "title": "猫猫导航🐱你的密钥被破解了"
 }
