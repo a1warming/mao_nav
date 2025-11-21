@@ -235,7 +235,7 @@ export const mockData = {
           "name": "GeminiGcli",
           "url": "https://gcli2api-latest-tmvj.onrender.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/gcli2api-latest-tmvj.onrender.com?larger=true"
+          "icon": "https://www.faviconextractor.com/favicon/gcli2api-latest-tmvj.onrender.com"
         },
         {
           "id": "208",
@@ -256,21 +256,21 @@ export const mockData = {
           "name": "Droid2api",
           "url": "http://152.53.130.39:3001/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/152.53.130.39?larger=true"
+          "icon": "https://www.faviconextractor.com/favicon/152.53.130.39:3001"
         },
         {
           "id": "263",
           "name": "分享文件",
           "url": "https://wormhole.app/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/wormhole.app"
         },
         {
           "id": "264",
           "name": "Grok2api",
           "url": "http://152.53.130.39:9001/login",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/152.53.130.39?larger=true"
+          "icon": "https://www.faviconextractor.com/favicon/152.53.130.39:9001"
         },
         {
           "id": "265",
