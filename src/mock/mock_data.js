@@ -630,6 +630,13 @@ export const mockData = {
           "url": "https://console.zouter.io/",
           "description": "有一个香港鸡",
           "icon": "https://www.faviconextractor.com/favicon/console.zouter.io?larger=true"
+        },
+        {
+          "id": "site-1763804517958",
+          "name": "Bgevm",
+          "url": "https://www.bagevm.com/clientarea.php",
+          "description": "ip比较干净",
+          "icon": "https://www.faviconextractor.com/favicon/www.bagevm.com"
         }
       ]
     },
