@@ -1171,6 +1171,13 @@ export const mockData = {
           "url": "https://sora.chatgpt.com/profile",
           "description": "hf@loveximi",
           "icon": "https://www.faviconextractor.com/favicon/sora.chatgpt.com?larger=true"
+        },
+        {
+          "id": "site-1764162131713",
+          "name": "Gemini Enterprise",
+          "url": "https://business.gemini.google/home",
+          "description": "Gemini Enterprise：面向企业的最佳 Google AI",
+          "icon": ""
         }
       ]
     },
