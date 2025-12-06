@@ -278,6 +278,13 @@ export const mockData = {
           "url": "https://pansou.ffff.li/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/pansou.ffff.li?larger=true"
+        },
+        {
+          "id": "site-1765041200936",
+          "name": "warmnav-导航",
+          "url": "https://warm.qzz.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/warm.qzz.io"
         }
       ]
     },
